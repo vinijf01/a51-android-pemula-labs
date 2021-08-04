@@ -8,5 +8,5 @@ Di dalamnya terdapat materi:
 * Style and Theme
 * RecyclerView
 
-Mulailah karirmu sebagai Android Developer dari sini. Materi disusun oleh **Dicoding sebagai Google Authorized Training Partner**.
+Ayoo Mulailah karirmu sebagai Android Developer dari sini. Materi disusun oleh **Dicoding sebagai Google Authorized Training Partner**.
 Ikuti kelas [Belajar Membuat Aplikasi Android untuk Pemula](https://www.dicoding.com/academies/51/) di Dicoding Indonesia
